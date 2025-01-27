@@ -8,9 +8,13 @@
 ## Weapons
 - [ ] Bronze Trophy
 - [ ] Brass Bell
-- [ ] Fountain Pen
+- [x] Fountain Pen
 
 ## Notes
 *Use this space to record your findings and deductions...*
+
+
+Hallazgos:
+No he encontrado ningún objeto o persona en todo el directorio de las casas.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
