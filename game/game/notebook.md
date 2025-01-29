@@ -25,5 +25,7 @@ Aparte de la pista, no encontré más cosas en el directorio de las tiendas. Por
 Al entrar al ayuntamiento encontré un libro pesado, pero no estaba en las armas posibles =(.
 Acabo de encontrar que el lugar donde se realizó el asesinato fue en el cuarto de reuniones en el ayuntamiento.
 Ahora toca encontrar a los sospechosos y a las posibles armas.
+No he encontrado nada más en tl ayuntamiento.
+Por lo que he buscado en todos los posibles lugares y no he logrado definir al culpable junto a su arma =(.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
