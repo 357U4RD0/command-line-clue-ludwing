@@ -22,5 +22,6 @@ EN el patio de juegos no encontré un objeto o persona, pero encontré otra pist
 No he encontrado ningún objeto o persona en todo el directorio del colegio.
 En el almacén encontré otra pista, pero ningún objeto o persona, la pista me manda al cuarto de reuniones.
 Aparte de la pista, no encontré más cosas en el directorio de las tiendas. Por lo que todo debe de estar en el ayuntamiento.
+Al entrar al ayuntamiento encontré un libro pesado, pero no estaba en las armas posibles =(.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
